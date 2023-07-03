@@ -1,2 +1,2 @@
 call conda activate seedz
-call python server.py
+call python db_requests.py
