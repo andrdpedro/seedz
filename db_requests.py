@@ -26,7 +26,8 @@ def get_data():
         }
         r = requests.get(url=url, params=params)
         print(f"{r.json()}\n")
-}
+
+
 if __name__ == "__main__":
     post_request()
     get_data()
