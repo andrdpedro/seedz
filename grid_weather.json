@@ -1,0 +1,20 @@
+[
+    {
+        "cod_city": 59999,
+        "latitude": -9.1,
+        "longitude": -45.9333,
+        "name_station": "ALTO PARNAIBA"
+    },
+    {
+        "cod_city": 60020,
+        "latitude": -12.15,
+        "longitude": -45.0,
+        "name_station": "BARREIRAS"
+    },
+    {
+        "cod_city": 60046,
+        "latitude": -13.4707,
+        "longitude": -52.2708,
+        "name_station": "CANARANA"
+    }
+]
